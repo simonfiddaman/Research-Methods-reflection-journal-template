@@ -1,6 +1,7 @@
 # Week 8 Reflection
 
-**Date:** _[Add date]_  
+**Date:** _[Add date]_
+
 **Module:** Research Methods (COM00146M)
 
 ---
@@ -9,11 +10,11 @@
 
 ### Main Topics
 
--
+- (add content)
 
 ### New Concepts
 
--
+- (add content)
 
 ---
 
@@ -21,11 +22,11 @@
 
 ### What was challenging?
 
--
+- (add content)
 
 ### How did I address these challenges?
 
--
+- (add content)
 
 ---
 
@@ -33,11 +34,11 @@
 
 ### How does this relate to my previous knowledge?
 
--
+- (add content)
 
 ### Potential applications in my research/work
 
--
+- (add content)
 
 ---
 
@@ -45,11 +46,11 @@
 
 ### Unresolved questions
 
--
+- (add content)
 
 ### What I want to explore further
 
--
+- (add content)
 
 ---
 

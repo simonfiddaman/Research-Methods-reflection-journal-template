@@ -1,6 +1,7 @@
 # Week 2 Reflection
 
-**Date:** _[Add date]_  
+**Date:** _[Add date]_
+
 **Module:** Research Methods (COM00146M)
 
 ---

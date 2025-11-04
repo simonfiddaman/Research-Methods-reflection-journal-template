@@ -1,6 +1,7 @@
 # Week 4 Reflection
 
-**Date:** _[Add date]_  
+**Date:** _[Add date]_
+
 **Module:** Research Methods (COM00146M)
 
 ---
@@ -26,11 +27,11 @@
 
 ### Week 4 — Main Topics
 
--
+- (add content)
 
 ### Week 4 — New Concepts
 
--
+- (add content)
 
 ---
 
@@ -38,11 +39,11 @@
 
 ### Week 4 — What was challenging?
 
--
+- (add content)
 
 ### Week 4 — How did I address these challenges?
 
--
+- (add content)
 
 ---
 
@@ -50,11 +51,11 @@
 
 ### Week 4 — How does this relate to my previous knowledge?
 
--
+- (add content)
 
 ### Week 4 — Potential applications in my research/work
 
--
+- (add content)
 
 ---
 
@@ -62,11 +63,11 @@
 
 ### Week 4 — Unresolved questions
 
--
+- (add content)
 
 ### Week 4 — What I want to explore further
 
--
+- (add content)
 
 ---
 
