@@ -5,54 +5,91 @@
 
 ---
 
-## What I Learned This Week
+## Quick reference — Week 6
 
-### Main Topics
-- 
+- Focus: Thematic analysis, presenting qualitative findings, drawing conclusions.
 
-### New Concepts
-- 
+- WLOs (week):
+  - [ ] Demonstrate thematic analysis and compare data gathering methods. (MLO1, MLO2)
+  - [ ] Draw valid qualitative conclusions and reflect critically on evidence. (MLO2, MLO4)
 
----
+- Key tasks (this week):
+  - [ ] Complete a mini thematic analysis on a provided transcript or short dataset.
+  - [ ] Produce 3 themes with supporting quotes/notes.
+  - [ ] Share findings in Week 6 discussion.
 
-## Challenges and Difficulties
+- Reflection prompts (quick):
+  - [ ] How did you move from raw data to themes?
+  - [ ] Where is reflexivity important in your analysis?
 
-### What was challenging?
-- 
+## Week 6 — What I Learned This Week
 
-### How did I address these challenges?
-- 
+### Week 6 — Main Topics
 
----
+-
 
-## Applications and Connections
+### Week 6 — New Concepts
 
-### How does this relate to my previous knowledge?
-- 
-
-### Potential applications in my research/work
-- 
-
----
-
-## Questions and Future Learning
-
-### Unresolved questions
-- 
-
-### What I want to explore further
-- 
+-
 
 ---
 
-## Action Items for Next Week
-- [ ] 
-- [ ] 
-- [ ] 
+## Week 6 — Challenges and Difficulties
+
+### Week 6 — What was challenging?
+
+-
+
+### Week 6 — How did I address these challenges?
+
+-
 
 ---
 
-## Overall Reflection
+## Week 6 — Applications and Connections
+
+### Week 6 — How does this relate to my previous knowledge?
+
+-
+
+### Week 6 — Potential applications in my research/work
+
+-
+
+---
+
+## Week 6 — Questions and Future Learning
+
+### Week 6 — Unresolved questions
+
+-
+
+### Week 6 — What I want to explore further
+
+-
+
+---
+
+## Week 6 — Action Items for Next Week
+
+- [ ]
+- [ ]
+- [ ]
+
+---
+
+## Week 6 — Overall Reflection
 
 _Summary of the week's learning experience:_
 
+---
+
+## Module-level MLOs (quick reference)
+
+1. Formulate potential research questions appropriate to an area of interest within computer science.
+
+2. Outline methods for conducting and analysing quantitative and qualitative research.
+
+3. Critically evaluate methods of investigating a research topic and explain relationships between research question, methodology and methods.
+
+4. Critically assess the key characteristics, strengths and limitations of qualitative and quantitative research methods.

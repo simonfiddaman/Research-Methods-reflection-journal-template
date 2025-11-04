@@ -1,94 +1,245 @@
-# Research Methods Overview
+# Research Methods — Structured weekly overview & reflection template
 
-## Week 1 - Introduction to research methods in computer science
+This file combines weekly topics, weekly learning outcomes (WLOs), suggested individual tasks, and a compact reflection template so weekly reflections are consistent and useful for assessment.
 
-1.4 Week 1 Discussion 1: Introduce yourselves (Groups 4, 5 & 6)
-1.5 Lesson 1: Academic writing
-1.5.1 Academic writing, paragraphs and writing skills
-1.5.2 Academic writing and paraphrasing
-1.6 Academic analytical writing
-1.7 Lesson 2: The research process
-1.8 : What is research?
-1.8.1 Week 1 Discussion 2: Computer Science Research (Groups 4, 5 & 6)
-1.9 Activity: Possible examples of research in computer science
-1.10 Lesson 3: Formulating your research question(s)
-1.10.1 Validating your research question(s)
-1.10.2 Coherent research activity
+Refer to `MLOs.md` for module-level outcomes and mapping.
 
-## Week 2 - Research methods and research methodologies
+## How to use this file
 
-2.3 Lesson 1: Research terminology and definitions
-2.4 Methodology & methods
-2.4.1 Model for Research
-2.5 Week 2 Discussion: Research methodology (Groups 4, 5 & 6)
-2.5.1 Lesson 2: Research strategy
-2.6 Lesson 3: Research approaches
-2.7 The purpose of research
-2.7.1 Stakeholder perspective in research design
-2.8 Activity: Research approach: reasoning for theory development
-2.9 Lesson 3: Understanding research philosophies
-2.9.1 Padlet Activity: Research philosophy
-2.11 Planning and designing a research project
-2.11.1 Padlet Activity: Independent research project preparation
-2.12 Lesson 4: Literature reviews
-2.12.1 Hints and tips for completing a successful literature review
+- For each week, follow the **Focus**, complete the **Tasks**, then fill the **Reflection** prompts.
 
-## Week 3 - Quantitative research methods
+- Keep reflections concise (200–400 words) and explicitly map to the week's WLOs and at least one overall MLO.
 
-3.3 Lesson 1: Research Methods in Computer Science-2
-3.3.1 Methods for research in computer science
-3.3.2 Quantitative and Qualitative data
-3.4 Lesson 2: Types of data
-3.4.1 Concepts, Constructs and Variables
-3.4.2 Quantitative Research statistics
-3.4.3 Quantitative Research statistics
-3.6 Lesson 3: Statistical Inference
-3.6.1 Week 3 Discussion 1: Hypothesis testing (Groups 4, 5 & 6)
-3.6.2 Using inferential statistics to interpret research data: Understanding the practical significance
-3.6.3 Lesson 4: Factors influencing the choice of a statistical test
-3.7: Hypothesis-driven research
-3.7.1 Week 3 Discussion 2: Pair programming (Groups 4, 5 & 6)
-3.8 Activity: SPSS tool
+---
 
-## Week 4 - Quantitative methods, data collection and analysis
+### Week 1 — Introduction to research methods in computer science
 
-4.2.1 Quantitative research
-4.2.2 Quantitative research steps
-4.3 Lesson 1: Descriptive and Inferential Analysis
-4.3.1 Representing quantitative data
-4.3.2 Significance testing
-4.4 Lesson 2: Quantitative data: inferential statistical analysis
-4.4.1 Padlet Activity: Presenting quantitative data: strengths and limitations
-4.4.2 Graphical representations
-4.5 Week 4 Discussion: Reflective exercise (Groups 4, 5 & 6)
+#### Week 1 — Focus
 
-## Week 5 - Qualitative research methods
+- What is research? Academic writing basics. Formulating research questions.
 
-5.3 Lesson 1: Qualitative research methods
-5.4 Padlet Activity: Broadband provision
-5.6 Lesson 2: Typical strategies for collecting primary data in research
-5.7 Lesson 3: Methods for primary data collection
-5.7.1 Activity: Examples of methods for primary data collection
-5.8 Week 5 Discussion: Benefits and limitations of quantitative/qualitative methods for computer science (Groups 4, 5 & 6)
+#### Week 1 — WLOs (see `MLOs.md`)
 
-## Week 6 - Qualitative methods, data collection and analysis
+- Understand what research is (MLO3)
 
-6.3 Lesson 1: Analysing and presenting qualitative data
-6.3.1 Qualitative data analysis in Computer Science
-6.4. Thematic analysis of qualitative data
-6.5 Week 6 Discussion 1: Demonstrating criticality in your writing (Groups 4, 5 & 6)
-6.6 Lesson 2: Drawing valid conclusions from research data
-6.7 Week 6 Discussion 2: Being sceptical about data (Groups 4, 5 & 6)
+- Discuss research approaches (MLO2, MLO3, MLO4)
 
-## Week 7 - Evaluation
+- Demonstrate academic writing skills (MLO3)
 
-7.3 Lesson 1: Validity & Ethics
-7.3.1 Overview of ethical considerations when doing research
-7.4 Week 7 Discussion 1: Lesson 2- Thinking reflexively (Groups 4, 5 & 6)
-7.5 Lesson 3: Evaluation theory and evaluation in research
-7.6 Evaluating good quality research practice
-7.7 Reading: Evaluating poor quality research
-7.8 Activity: Your research journey
-7.9 Activity: Reviewing your research skills
-7.10 Week 7 Discussion 2: Assessment preparation - Data analysis (Groups 4, 5 & 6)
-7.11 Module Summary
+#### Week 1 — Tasks (individual)
+
+- Read Lesson 1 and Lesson 2 materials.
+
+- Complete "Introduce yourselves" discussion (Groups 4,5,6).
+
+- Practice paraphrasing: rewrite one short paragraph from a provided paper.
+
+- Draft 2 potential research questions in your area of interest.
+
+#### Week 1 — Reflection prompts
+
+- Which research question seems most viable and why? (link to WLO1)
+
+- What did you learn about academic writing you will apply next week?
+
+---
+
+### Week 2 — Research methods and research methodologies
+
+#### Week 2 — Focus
+
+- Methods vs methodology, research strategies, planning.
+
+#### Week 2 — WLOs
+
+- Distinguish methods and methodologies (MLO2, MLO4)
+
+- Evidence research strategies and validity issues (MLO1, MLO3)
+
+#### Week 2 — Tasks
+
+- Read lessons on research terminology and strategies.
+
+- Complete Padlet activities for research philosophy and project planning.
+
+- Produce a 1-page plan: research question, proposed approach, key stakeholders, and validity considerations.
+
+#### Week 2 — Reflection prompts
+
+- How does your chosen approach fit the research question?
+
+- What validity threats did you identify and how will you mitigate them?
+
+---
+
+### Week 3 — Quantitative research methods
+
+#### Week 3 — Focus
+
+- Quantitative vs qualitative, variables, hypothesis testing basics.
+
+#### Week 3 — WLOs
+
+- Understand quantitative methods and variable use (MLO2, MLO4)
+
+- Argue induction vs deduction use where relevant (MLO3)
+
+#### Week 3 — Tasks
+
+- Read Lessons 1–4 for Week 3.
+
+- Participate in hypothesis testing discussion.
+
+- Small exercise: draft a simple hypothesis and choose two possible statistical tests.
+
+#### Week 3 — Reflection prompts
+
+- Why did you pick the tests? Map choice to test assumptions and data type.
+
+- How would your hypothesis change if taking a qualitative perspective?
+
+---
+
+### Week 4 — Quantitative methods, data collection and analysis
+
+#### Week 4 — Focus
+
+- Descriptive/inferential analysis, graphical representation, significance testing.
+
+#### Week 4 — WLOs
+
+- Apply descriptive and inferential analysis (MLO2, MLO3, MLO4)
+
+- Use t-tests and interpret p-values & effect sizes (MLO2)
+
+#### Week 4 — Tasks
+
+- Follow lab/Activity: SPSS tool or equivalent (R/Python).
+
+- Produce at least two graphs for sample dataset and write brief interpretation.
+
+- Complete week discussion (reflective exercise).
+
+#### Week 4 — Reflection prompts
+
+- What did the analysis reveal? Were results practically significant?
+
+- What would you change in the data collection to improve inference?
+
+---
+
+### Week 5 — Qualitative research methods
+
+#### Week 5 — Focus
+
+- Qualitative methodologies, sampling and primary data collection.
+
+#### Week 5 — WLOs
+
+- Understand qualitative methodologies and when to mix methods (MLO2, MLO3)
+
+#### Week 5 — Tasks
+
+- Read Lesson 1–3 for Week 5; complete Padlet activity.
+
+- Sketch a primary data collection plan (interviews/focus groups/case study).
+
+- Identify ethical considerations for your plan.
+
+#### Week 5 — Reflection prompts
+
+- What sampling strategy did you choose and why?
+
+- What are the main ethical risks and how will you address them?
+
+---
+
+### Week 6 — Qualitative methods, data collection and analysis
+
+#### Week 6 — Focus
+
+- Thematic analysis, presenting qualitative findings, drawing conclusions.
+
+#### Week 6 — WLOs
+
+- Demonstrate thematic analysis and compare data gathering methods (MLO1, MLO2)
+
+- Draw valid qualitative conclusions (MLO2, MLO4)
+
+#### Week 6 — Tasks
+
+- Complete a mini thematic analysis on a provided transcript or short dataset.
+
+- Produce 3 themes with supporting quotes/notes.
+
+- Share findings in Week 6 discussion.
+
+#### Week 6 — Reflection prompts
+
+- How did you move from raw data to themes?
+
+- Where is reflexivity important in your analysis?
+
+---
+
+### Week 7 — Evaluation, validity & ethics
+
+#### Week 7 — Focus
+
+- Evaluating research quality, ethical practice, planning your independent project.
+
+#### Week 7 — WLOs
+
+- Critically evaluate research quality and ethics (MLO3, MLO4)
+
+- Identify personal research skill gaps and next steps (MLO2, MLO4)
+
+#### Week 7 — Tasks
+
+- Complete module summary and evaluation readings.
+
+- Produce a short research project plan (1–2 pages): question, method(s), timeline, ethics, evaluation criteria.
+
+- Complete Week 7 Padlet/Discussion.
+
+#### Week 7 — Reflection prompts
+
+- How will you ensure your project meets validity and ethical standards?
+
+- Which skills will you develop before starting the project?
+
+---
+
+### Reflection template (copy for each week)
+
+- Week: [n]
+
+- Focus & WLOs: [one-line mapping to WLOs]
+
+- Activities completed: [bullets]
+
+- Key learning(s): [3–4 bullets]
+
+- Evidence produced: [list files/artifacts or links]
+
+- Challenges/Questions: [2–3 bullets]
+
+- Actions for next week: [2 bullets] (explicit, time-boxed)
+
+---
+
+### Quick tips for better reflections
+
+- Always reference at least one WLO and one overall MLO.
+
+- Keep evidence links or file names consistent so you can collect them for assessment.
+
+- Use the "Actions for next week" to track skill development.
+
+### Module resources and assessment mapping
+
+- Map all major assessments to the MLOs in `MLOs.md` when preparing submissions.
+
+- Keep a simple folder per week with: notes.md, artifacts (plots, transcripts), reflection.md.
+
+End of overview.

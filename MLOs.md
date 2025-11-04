@@ -1,54 +1,76 @@
+
 # Module Learning Outcomes (MLOs)
 
-## At the end of this module students will be able to:
+## Overall module outcomes
 
-1. Formulate potential research questions appropriate to an area of interest and within the area of computer science.
-2. Outline methods of conducting and analysing quantitative and qualitative research.
-3. Critically evaluate different methods of investigating an area of research interest, and consider the nature of the relationship between research question, methodology and method.
-4. Critically assess the key characteristics of qualitative and quantitative research methods.
-5. Weekly Learning Outcomes (WLOs)
+By the end of this module students will be able to:
 
-## At the end of specific weeks, you will be able to:
+1. Formulate potential research questions appropriate to an area of interest within computer science.
 
-### Week 1 Learning Outcomes
+2. Outline methods for conducting and analysing quantitative and qualitative research.
 
-1. Show a clear understanding of what research is (MLO3)
-2. Discuss research approaches (MLO2, MLO3, MLO4)
-3. Demonstrate an understanding of academic writing (MLO3)
+3. Critically evaluate methods of investigating a research topic and explain relationships between research question, methodology and methods.
 
-### Week 2 Learning Outcomes
+4. Critically assess the key characteristics, strengths and limitations of qualitative and quantitative research methods.
 
-1. Show a clear understanding of common research approaches (MLO1, MLO2, MLO4)
-2. Evidence knowledge on research strategies (MLO1 MLO3)
-3. Demonstrate an understanding of validity issues (MLO3)
-4. Evidence that you understand difference between methods and methodologies (MLO2, MLO4)
+---
 
-### Week 3 Learning Outcomes
+## Weekly Learning Outcomes (WLOs) — mapped to MLOs
 
-1. Develop an understanding of Quantitative methods (MLO2, MLO4)
-2. Debate appropriate use of Variables (MLO2, MLO4)
-4. Be aware of Computer Science research methods (MLO1, MLO2, MLO4)
-4. Argue the appropriate use of Induction v Deduction (MLO3)
+Below are concise weekly learning outcomes designed to guide readings, activities and reflections. Each WLO includes the primary MLOs it maps to.
 
-### Week 4 Learning Outcomes
+### Week 1 — Introduction to research, academic writing
 
-1. Demonstrate an understanding of hypothesis testing (MLO2, MLO3, MLO4)
-2. Be able to demonstrate use of t-testing (MLO2, MLO3, MLO4)
-3. Be aware of the difference between inductive and  deductive research (MLO2, MLO3, MLO4)
+- Understand what research is and how it applies to computer science. (MLO3)
 
-### Week 5 Learning Outcomes
+- Describe research approaches at a high level. (MLO2, MLO3, MLO4)
 
-1. Ensure a good understanding of methodologies used in qualitative research (MLO2, MLO3, MLO4)
-2. Evidence examples of when a mixed model approach is appropriate (MLO3)
-3. Identify instances of case studies (MLO3)
+- Demonstrate academic writing fundamentals (paragraphs, paraphrase, analysis). (MLO3)
 
-### Week 6 Learning Outcomes
+### Week 2 — Research terminology, methodology and planning
 
-1. Compare methods of data gathering (MLO1, MLO2, MLO4)
-2. Demonstrate a clear understanding of qualitative analysis methods (MLO2)
+- Distinguish between methodology and methods; outline common research approaches. (MLO1, MLO2, MLO4)
 
-### Week 7 Learning Outcomes
+- Identify research strategies and plan a basic research design. (MLO1, MLO3)
 
-1. Appreciate good quality research in both practice and published work (MLO3, MLO4)
-2. Recognise the influence your ways of thinking and actions have upon situations in which you are involved (MLO2, MO4)
-3. Identify what research skills you have and/or need, to prepare for your individual research project (MLO2, MLO4)
+- Understand validity and stakeholder perspectives in research design. (MLO3)
+
+### Week 3 — Quantitative research foundations
+
+- Summarise quantitative vs qualitative data and typical methods in CS research. (MLO2, MLO4)
+
+- Explain key concepts: variables, constructs, hypothesis-driven research, induction vs deduction. (MLO1, MLO2, MLO4)
+
+- Interpret basic descriptive and inferential statistics. (MLO2, MLO4)
+
+### Week 4 — Quantitative data analysis
+
+- Apply descriptive and inferential analysis concepts to example datasets. (MLO2, MLO3, MLO4)
+
+- Choose appropriate statistical tests and represent quantitative data clearly. (MLO2, MLO4)
+
+### Week 5 — Qualitative research methods
+
+- Describe qualitative methodologies and common primary data collection techniques. (MLO2, MLO3, MLO4)
+
+- Explain when mixed-methods or case studies are appropriate. (MLO3)
+
+### Week 6 — Qualitative analysis and interpretation
+
+- Compare qualitative data gathering methods and demonstrate thematic analysis. (MLO1, MLO2, MLO4)
+
+- Draw valid conclusions from qualitative data and reflect critically on evidence. (MLO2, MLO4)
+
+### Week 7 — Evaluation, ethics and research quality
+
+- Critically evaluate research quality, validity and ethics. (MLO3, MLO4)
+
+- Reflect on personal research skills and plan next steps for an independent project. (MLO2, MLO4)
+
+---
+
+Notes
+
+- Use these WLOs to guide weekly reflections and evidence collection for assessments.
+
+- Each weekly reflection should map activities back to the WLOs and at least one overall MLO.
