@@ -145,6 +145,8 @@ Below are concise weekly learning outcomes designed to guide readings, activitie
 
 ## Additional Resources
 
+- [Academic writing](<resources/Academic writing.md>)
+
 ### Recommended Reading
 
 -
@@ -153,6 +155,7 @@ Below are concise weekly learning outcomes designed to guide readings, activitie
 
 - [Academic writing — University of York Subject Guides](https://subjectguides.york.ac.uk/academic-writing/academic-style)
 - [Academic language: a Practical Guide](https://subjectguides.york.ac.uk/academic-language)
+- [IEEE referencing style](https://subjectguides.york.ac.uk/referencing-style-guides/ieee)
 -
 
 ### Tools and Software
