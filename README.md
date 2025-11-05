@@ -10,19 +10,18 @@ This repository contains structured notes and weekly reflection journals for the
 
 ## Repository Structure
 
-```
+```plaintext
 Research-Methods/
 ├── README.md              # This file - overview and guide
-├── notes.md              # Main module notes with weekly topics and key concepts
-└── reflections/          # Weekly reflection journals
+├── notes.md               # Main module notes with weekly topics and key concepts
+└── reflections/            # Weekly reflection journals
     ├── week1-reflection.md
     ├── week2-reflection.md
     ├── week3-reflection.md
     ├── week4-reflection.md
     ├── week5-reflection.md
     ├── week6-reflection.md
-    ├── week7-reflection.md
-    └── week8-reflection.md
+    └── week7-reflection.md
 ```
 
 ## How to Use

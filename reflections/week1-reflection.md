@@ -6,28 +6,49 @@
 
 ---
 
-## Quick reference — Week 1
+## Quick reference
 
 - Focus: What is research? Academic writing basics. Formulating research questions.
 
 - WLOs (week):
-  - [ ] Understand what research is and how it applies to computer science. (MLO3)
-  - [ ] Describe research approaches at a high level. (MLO2, MLO3, MLO4)
-  - [ ] Demonstrate academic writing fundamentals (paragraphs, paraphrase, analysis). (MLO3)
+  - [ ] Understand what research is and how it applies to computer science (MLO3)
+  - [ ] Describe research approaches at a high level (MLO2, MLO3, MLO4)
+  - [ ] Demonstrate academic writing fundamentals (paragraphs, paraphrase, analysis) (MLO3)
 
 - Key tasks (this week):
-  - [ ] Read Lesson 1 and Lesson 2 materials.
-  - [ ] Complete "Introduce yourselves" discussion (Groups 4,5,6).
-  - [ ] Practice paraphrasing: rewrite one short paragraph from a provided paper.
-  - [ ] Draft 2 potential research questions in your area of interest.
+  - [ ] Read Lessons 1, 2, and 3 materials
+  - [x] Complete "Introduce yourselves" discussion (Groups 4,5,6)
+  - [ ] Practice paraphrasing: rewrite one short paragraph from a provided paper
+  - [ ] Draft 2 potential research questions in your area of interest
+
+- Readings:
+  - in Research Design: Qualitative, Quantitative & Mixed Methods Approaches:
+    - [ ] Read Chapter 1, "The Selection of a Research Approach"
+    - [ ] Read Chapter 7, "Chapter 7 Research Questions and Hypotheses"
+  - [ ] [Five projects that are harnessing big data for good](https://theconversation.com/five-projects-that-are-harnessing-big-data-for-good-104844)  
+  - [ ] [Data science can help us fight human trafficking](https://theconversation.com/data-science-can-help-us-fight-human-trafficking-81647)
+  - [ ] [Big data’s arrival in sport is changing the rules of the game](https://theconversation.com/big-datas-arrival-in-sport-is-changing-the-rules-of-the-game-33519)
+  - [ ] [Danielsiek et al (2017) An Instrument to Assess Self-Efficacy in Introductory Algorithms Courses](../readings/Danielsiek%20et%20al%202017-1.pdf)
 
 - Reflection prompts (quick):
   - [ ] Which research question seems most viable and why?
   - [ ] What did you learn about academic writing you will apply next week?
 
+## Summary
+
+This week, we have identified how academic writing differs from general writing and looked at the structure for good academic writing practice. We have given thought to what we mean by research, the different reasons for doing research whilst also critiquing the relevance of research in computer science. Research can take many forms, with different approaches and a variety of methods depending on the purpose and context for the research, and we will move on to these aspects as the module progresses. By now, you should have a grasp of what research is and how it can be applied in the computer science world.
+
 ---
 
-## Week 1 — What I Learned This Week
+## Readings Notes
+
+### _text_
+
+- (add content)
+
+---
+
+## What I Learned This Week
 
 ### Main Topics
 
@@ -39,7 +60,7 @@
 
 ---
 
-## Week 1 — Challenges and Difficulties
+## Challenges and Difficulties
 
 ### What was challenging?
 
@@ -51,7 +72,7 @@
 
 ---
 
-## Week 1 — Applications and Connections
+## Applications and Connections
 
 ### How does this relate to my previous knowledge?
 
@@ -63,7 +84,7 @@
 
 ---
 
-## Week 1 — Questions and Future Learning
+## Questions and Future Learning
 
 ### Unresolved questions
 
@@ -75,7 +96,7 @@
 
 ---
 
-## Week 1 — Action Items for Next Week
+## Action Items for Next Week
 
 - [ ] (add action)
 - [ ] (add action)
@@ -83,7 +104,7 @@
 
 ---
 
-## Week 1 — Overall Reflection
+## Overall Reflection
 
 _Summary of the week's learning experience:_
 
@@ -92,9 +113,6 @@ _Summary of the week's learning experience:_
 ## Module-level MLOs (quick reference)
 
 1. Formulate potential research questions appropriate to an area of interest within computer science.
-
 2. Outline methods for conducting and analysing quantitative and qualitative research.
-
 3. Critically evaluate methods of investigating a research topic and explain relationships between research question, methodology and methods.
-
 4. Critically assess the key characteristics, strengths and limitations of qualitative and quantitative research methods.

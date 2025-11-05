@@ -6,7 +6,7 @@
 
 ---
 
-## Quick reference — Week 6
+## Quick reference
 
 - Focus: Thematic analysis, presenting qualitative findings, drawing conclusions.
 
@@ -23,55 +23,80 @@
   - [ ] How did you move from raw data to themes?
   - [ ] Where is reflexivity important in your analysis?
 
-## Week 6 — What I Learned This Week
+- Readings:
+  - in Research Design: Qualitative, Quantitative & Mixed Methods Approaches:
+    - [ ] Chapter 9, "Qualitative Methods"
+  - [ ] [When it comes to data, skepticism matters](https://hbr.org/2014/10/when-it-comes-to-data-skepticism-matters)
 
-### Week 6 — Main Topics
+## Summary
 
-- (add content)
+This week we have introduced methods for presenting qualitative data. We have examined:
 
-### Week 6 — New Concepts
+- Transcripts and coding
+- Discourse analysis
+- Valid conclusions
+
+Having already looked at computer science research it is important that qualitative data is not ruled out as not suitable for a CS project as most projects will have elements of human data in them and students need to have the knowledge and skills to code and represent that information or data.
+
+---
+
+## Readings Notes
+
+### (_text_)
 
 - (add content)
 
 ---
 
-## Week 6 — Challenges and Difficulties
+## What I Learned This Week
 
-### Week 6 — What was challenging?
-
-- (add content)
-
-### Week 6 — How did I address these challenges?
+### Main Topics
 
 - (add content)
 
----
-
-## Week 6 — Applications and Connections
-
-### Week 6 — How does this relate to my previous knowledge?
-
-- (add content)
-
-### Week 6 — Potential applications in my research/work
+### New Concepts
 
 - (add content)
 
 ---
 
-## Week 6 — Questions and Future Learning
+## Challenges and Difficulties
 
-### Week 6 — Unresolved questions
+### What was challenging?
 
 - (add content)
 
-### Week 6 — What I want to explore further
+### How did I address these challenges?
 
 - (add content)
 
 ---
 
-## Week 6 — Action Items for Next Week
+## Applications and Connections
+
+### How does this relate to my previous knowledge?
+
+- (add content)
+
+### Potential applications in my research/work
+
+- (add content)
+
+---
+
+## Questions and Future Learning
+
+### Unresolved questions
+
+- (add content)
+
+### What I want to explore further
+
+- (add content)
+
+---
+
+## Action Items for Next Week
 
 - [ ]
 - [ ]
@@ -79,7 +104,7 @@
 
 ---
 
-## Week 6 — Overall Reflection
+## Overall Reflection
 
 _Summary of the week's learning experience:_
 
@@ -88,9 +113,6 @@ _Summary of the week's learning experience:_
 ## Module-level MLOs (quick reference)
 
 1. Formulate potential research questions appropriate to an area of interest within computer science.
-
 2. Outline methods for conducting and analysing quantitative and qualitative research.
-
 3. Critically evaluate methods of investigating a research topic and explain relationships between research question, methodology and methods.
-
 4. Critically assess the key characteristics, strengths and limitations of qualitative and quantitative research methods.

@@ -8,20 +8,16 @@
 
 ## Table of Contents
 
+- [Reflection Journals](#reflection-journals)
+- [Textbooks](#textbooks)
+- [Module Learning Outcomes](#module-learning-outcomes-mlos)
 - [Week 1: Introduction to research, academic writing](#week-1--introduction-to-research-academic-writing)
-  - [Week 1 reflection journal](reflections/week1-reflection.md)
 - [Week 2: Research terminology, methodology and planning](#week-2--research-terminology-methodology-and-planning)
-  - [Week 2 reflection journal](reflections/week2-reflection.md)
 - [Week 3: Quantitative research foundations](#week-3--quantitative-research-foundations)
-  - [Week 3 reflection journal](reflections/week3-reflection.md)
 - [Week 4: Quantitative data analysis](#week-4--quantitative-data-analysis)
-  - [Week 4 reflection journal](reflections/week4-reflection.md)
 - [Week 5: Qualitative research methods](#week-5--qualitative-research-methods)
-  - [Week 5 reflection journal](reflections/week5-reflection.md)
 - [Week 6: Qualitative analysis and interpretation](#week-6--qualitative-analysis-and-interpretation)
-  - [Week 6 reflection journal](reflections/week6-reflection.md)
 - [Week 7: Evaluation, ethics and research quality](#week-7--evaluation-ethics-and-research-quality)
-  - [Week 7 reflection journal](reflections/week7-reflection.md)
 - [Key Concepts](#key-concepts)
   - [Research Paradigms](#research-paradigms)
   - [Methodologies](#methodologies)
@@ -32,6 +28,29 @@
   - [Recommended Reading](#recommended-reading)
   - [Useful Websites](#useful-websites)
   - [Tools and Software](#tools-and-software)
+
+---
+
+## Reflection Journals
+
+- [Week 1 reflection journal](reflections/week1-reflection.md)
+- [Week 2 reflection journal](reflections/week2-reflection.md)
+- [Week 3 reflection journal](reflections/week3-reflection.md)
+- [Week 4 reflection journal](reflections/week4-reflection.md)
+- [Week 5 reflection journal](reflections/week5-reflection.md)
+- [Week 6 reflection journal](reflections/week6-reflection.md)
+- [Week 7 reflection journal](reflections/week7-reflection.md)
+
+---
+
+## Textbooks
+
+There are many textbooks on research methods and doing research, all of which have their strengths and limitations. This module has two core texts, which are:
+
+- Creswell, J. W. and Creswell, J. D., (2018). Research Design: Qualitative and Quantitative & Mixed Methods Approaches. 5th Ed. London: Sage Publications
+- Zobel, J. (2014) Writing for Computer Science. 3rd Ed. Springer, London.
+
+The Creswell book explains research design in a comprehensible way, making it an ideal text for this module, while Zobel's book provides straightforward, step-by-step guidance on how to write for computer science.
 
 ---
 

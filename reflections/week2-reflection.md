@@ -6,7 +6,7 @@
 
 ---
 
-## Quick reference — Week 2
+## Quick reference
 
 - Focus: Methods vs methodology, research strategies, planning.
 
@@ -24,57 +24,89 @@
   - [ ] How does your chosen approach fit the research question?
   - [ ] What validity threats did you identify and how will you mitigate them?
 
----
-
-## Week 2 — What I Learned This Week
-
-### Week 2 — Main Topics
-
-- (add content)
-
-### Week 2 — New Concepts
-
-- (add content)
-
----
-
-## Week 2 — Challenges and Difficulties
-
-### Week 2 — What was challenging?
-
-- (add content)
-
-### Week 2 — How did I address these challenges?
-
-- (add content)
+- Readings:
+  - in Research Design: Qualitative, Quantitative & Mixed Methods Approaches
+    - [ ] Review Chapter 1, "The Selection of a Research Approach"
+    - [ ] Chapter 10, "Mixed Method Procedures"
+    - [ ] Chapter 3, "The Use of Theory"
+    - [ ] Chapter 2, "Review of the Literature"
+  - in Writing for Computer Science
+    - [ ] _(Optional) Chapter 2 "Getting Started"_
+    - [ ] Chapter 3 "Reading and Reviewing"
+  - [ ] [A Quantitative Analysis of Model-Driven Code Generation through Software Experimentation](<../readings/A Quantitative Analysis of Model-Driven Code Generation through Software Experimentation.pdf>)
+  - [ ] [Experimental Economics and Experimental Computer Science: A Survey](<../readings/Experimental Economics and Experimental Computer Science A Survey.pdf>)
+  - [ ] [The use of ethnography in computer science research: a systematic literature review](<../readings/The use of ethnography in computer science research a systematic literature review.pdf>)
+  - [ ] [A Framework for Evaluating Qualitative Research Methods in Computer Programming Education](<../readings/2005-PPIG-17th-dunican.pdf>)
+  - [ ] [Qualitative Research in Computer Science Education](<../readings/QualitativeResearch.pdf>)
+  - [ ] [A Digital Archive of Research Papers in Computer Science](<../readings/A_Digital_Archive_of_Research_Papers_in_Computer_S.pdf>)
+  - [ ] [A Reflection on Case Study Research in Computer](../readings/AnaNunesFinal.pdf)
+  - [ ] _(Optional) [Mertens, D. (2007). Transformative paradigm: mixed methods and social justice](https://eu.alma.exlibrisgroup.com/leganto/public/44YORK_INST/citation/40292226120001381?auth=SAML). Journal of Mixed Methods Research. Vol. 1 (3). pp.212-225_
 
 ---
 
-## Week 2 — Applications and Connections
+## Summary
 
-### Week 2 — How does this relate to my previous knowledge?
+This week we have introduced methodologies and how they differ from methods. We have discussed the different approaches to research in computer science, who the stakeholders may be, strategies for undertaking research and then moved on to research ethics and validity. We spent some time on sampling and looked more closely at literature reviews.
 
-- (add content)
+---
 
-### Week 2 — Potential applications in my research/work
+## Readings Notes
+
+### (_text_)
 
 - (add content)
 
 ---
 
-## Week 2 — Questions and Future Learning
+## What I Learned This Week
 
-### Week 2 — Unresolved questions
+### Main Topics
 
 - (add content)
 
-### Week 2 — What I want to explore further
+### New Concepts
 
 - (add content)
 
 ---
 
-## Week 2 — Action Items for Next Week
+## Challenges and Difficulties
+
+### What was challenging?
+
+- (add content)
+
+### How did I address these challenges?
+
+- (add content)
+
+---
+
+## Applications and Connections
+
+### How does this relate to my previous knowledge?
+
+- (add content)
+
+### Potential applications in my research/work
+
+- (add content)
+
+---
+
+## Questions and Future Learning
+
+### Unresolved questions
+
+- (add content)
+
+### What I want to explore further
+
+- (add content)
+
+---
+
+## Action Items for Next Week
 
 - [ ] (add action)
 - [ ] (add action)
@@ -82,7 +114,7 @@
 
 ---
 
-## Week 2 — Overall Reflection
+## Overall Reflection
 
 _Summary of the week's learning experience:_
 
@@ -91,9 +123,6 @@ _Summary of the week's learning experience:_
 ## Module-level MLOs (quick reference)
 
 1. Formulate potential research questions appropriate to an area of interest within computer science.
-
 2. Outline methods for conducting and analysing quantitative and qualitative research.
-
 3. Critically evaluate methods of investigating a research topic and explain relationships between research question, methodology and methods.
-
 4. Critically assess the key characteristics, strengths and limitations of qualitative and quantitative research methods.
