@@ -151,6 +151,8 @@ Below are concise weekly learning outcomes designed to guide readings, activitie
 
 ### Useful Websites
 
+- [Academic writing — University of York Subject Guides](https://subjectguides.york.ac.uk/academic-writing/academic-style)
+- [Academic language: a Practical Guide](https://subjectguides.york.ac.uk/academic-language)
 -
 
 ### Tools and Software
