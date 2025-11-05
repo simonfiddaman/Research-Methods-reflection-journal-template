@@ -6,7 +6,7 @@
 
 ---
 
-## Quick reference — Week 3
+## Quick reference
 
 - Focus: Quantitative vs qualitative, variables, hypothesis testing basics.
 
@@ -24,55 +24,82 @@
   - [ ] Why did you pick the tests? Map choice to test assumptions and data type.
   - [ ] How would your hypothesis change if taking a qualitative perspective?
 
-## Week 3 — What I Learned This Week
+- Readings:
+  - in Research Design: Qualitative, Quantitative & Mixed Methods Approaches:
+    - [ ] Chapter 8, "Quantitative Methods"
+  - in Writing for Computer Science:
+    - [ ] Chapter 4 "Hypotheses, Questions and Evidence"
+  - [ ] _(Optional) [Field, A.P. (2000) Discovering Statistics Using SPSS for Windows: Advanced Techniques for the Beginner](https://eu.alma.exlibrisgroup.com/leganto/public/44YORK_INST/citation/40294584910001381?auth=SAML)_
 
-### Week 3 — Main Topics
+## Summary
 
-- (add content)
+Week 3 has considered a range of methods commonly available to conduct quantitative research in computer science.
 
-### Week 3 — New Concepts
+Think about your own engagement with research, perhaps in the workplace and generally, and take some time to reflect upon the following:
+
+- Do you have a preference for any particular strategy and/or method(s) of data collection?
+- Would you consider alternative strategies and methods going forward?
+- How might this impact on any research you engage with?
+
+---
+
+## Readings Notes
+
+### (_text_)
 
 - (add content)
 
 ---
 
-## Week 3 — Challenges and Difficulties
+## What I Learned This Week
 
-### Week 3 — What was challenging?
-
-- (add content)
-
-### Week 3 — How did I address these challenges?
+### Main Topics
 
 - (add content)
 
----
-
-## Week 3 — Applications and Connections
-
-### Week 3 — How does this relate to my previous knowledge?
-
-- (add content)
-
-### Week 3 — Potential applications in my research/work
+### New Concepts
 
 - (add content)
 
 ---
 
-## Week 3 — Questions and Future Learning
+## Challenges and Difficulties
 
-### Week 3 — Unresolved questions
+### What was challenging?
 
 - (add content)
 
-### Week 3 — What I want to explore further
+### How did I address these challenges?
 
 - (add content)
 
 ---
 
-## Week 3 — Action Items for Next Week
+## Applications and Connections
+
+### How does this relate to my previous knowledge?
+
+- (add content)
+
+### Potential applications in my research/work
+
+- (add content)
+
+---
+
+## Questions and Future Learning
+
+### Unresolved questions
+
+- (add content)
+
+### What I want to explore further
+
+- (add content)
+
+---
+
+## Action Items for Next Week
 
 - [ ]
 - [ ]
@@ -80,7 +107,7 @@
 
 ---
 
-## Week 3 — Overall Reflection
+## Overall Reflection
 
 _Summary of the week's learning experience:_
 
@@ -89,9 +116,6 @@ _Summary of the week's learning experience:_
 ## Module-level MLOs (quick reference)
 
 1. Formulate potential research questions appropriate to an area of interest within computer science.
-
 2. Outline methods for conducting and analysing quantitative and qualitative research.
-
 3. Critically evaluate methods of investigating a research topic and explain relationships between research question, methodology and methods.
-
 4. Critically assess the key characteristics, strengths and limitations of qualitative and quantitative research methods.
