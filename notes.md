@@ -121,6 +121,18 @@ Below are concise weekly learning outcomes designed to guide readings, activitie
 
 ## Key Concepts
 
+### Research Process
+
+1. **Identify a research topic** - this would usually be an issue, problem or phenomenon that is of interest and worthy of investigation
+2. **Formulate research questions** - consult relevant academic literature and other sources of information to explore the issue in more depth and identify feasible research objectives
+3. **Frame research question(s)** - decide on specific question(s) to ask about the issue; frame the question clearly
+4. **Choose methodology/approach** - think about how to conduct the research; consider the optimal approach to enable you to address the research objectives
+5. **Select methods of data collection** - choose how to collect the data; consider which methods will enable you to gather the sort of data you need to respond to the research question(s)
+6. **Collect data** - consider who and what you need to gain access to in terms of data collection; think about sampling; ensure ethical consideration is given to all aspects of data gathering
+7. **Analyse data** - choose how to analyse the data; draw from a range of analytical approaches most relevant to the type of data collected. Triangulate from different sources if appropriate
+8. **Draw conclusions** - discuss findings in relation to what is already known about the issue (academic literature and other relevant contextual information). Identify key results/outcomes, recommendations, limitations of research and opportunities for further research
+9. **Disseminate research findings** - think about who to communicate findings to (stakeholders) and choose an effective way to do that (report, academic paper, presentation etc.)
+
 ### Research Paradigms
 
 -
