@@ -161,3 +161,23 @@ Below are concise weekly learning outcomes designed to guide readings, activitie
 ### Tools and Software
 
 -
+
+### University of York academic writing resources
+
+As a student of the University of York you have access to many resources to support you through your MSc. Included in the York Skills guides is a section on [Academic Writing](https://subjectguides.york.ac.uk/skills/writing). Here there are tips and techniques and links to the [Writing and Language Skills Centre](https://www.york.ac.uk/students/studying/skills/writing-centre/). From here you can book 1-2-1 support and get help with any draft submission, as long as you give them enough time. Make sure you take the time to review these pages. Other useful resources on the York website are:
+
+- [Skills Guide](https://subjectguides.york.ac.uk/skills)
+- [Academic Writing](https://subjectguides.york.ac.uk/academic-writing)
+- [Writing Centre](https://www.york.ac.uk/students/studying/skills/writing-centre/)
+- [IEEE Referencing Guide](https://subjectguides.york.ac.uk/referencing-style-guides/ieee)
+- [Academic Skills Community](https://www.york.ac.uk/students/studying/skills/community/)
+- [What is academic writing?](https://subjectguides.york.ac.uk/academic-writing/general-writing)
+- [Paraphrasing in academic writing](<resources/Paraphrasing in academic writing.md>)
+
+Within the section [Writing - structuring your response](https://subjectguides.york.ac.uk/skills/essay-structure) there are some more useful tips that can be used for your research proposal (to be taken later in the course), such as how to write an introduction, paragraphs and conclusions.
+
+### Other writing resources
+
+[The Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) - a bank of phrases used in academic writing from the University of Manchester and widely used by researchers.
+
+[The Academic Word List](https://www.uefap.org/vocabulary-selecting-awl/) adapted from the Cambridge Dictionary.
