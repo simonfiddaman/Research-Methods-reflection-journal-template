@@ -24,6 +24,7 @@
 - Readings:
   - in Research Design: Qualitative, Quantitative & Mixed Methods Approaches:
     - [ ] Read Chapter 1, "The Selection of a Research Approach"
+      - This chapter provides a clear and thorough explanation of research philosophy and approaches to theory development. It is essential reading for any student or researcher in the early stages of doing research. Some of the terminology may seem unfamiliar and the concepts can appear quite abstract. However, being able to recognise and understand the assumptions and beliefs which underpin different approaches to doing research is fundamental to the research process.
     - [ ] Read Chapter 7, "Chapter 7 Research Questions and Hypotheses"
   - [ ] [Five projects that are harnessing big data for good](https://theconversation.com/five-projects-that-are-harnessing-big-data-for-good-104844)  
   - [ ] [Data science can help us fight human trafficking](https://theconversation.com/data-science-can-help-us-fight-human-trafficking-81647)
@@ -31,6 +32,9 @@
   - [ ] [Danielsiek et al (2017) An Instrument to Assess Self-Efficacy in Introductory Algorithms Courses](../readings/Danielsiek%20et%20al%202017-1.pdf)
 
 - Reflection prompts (quick):
+  - [ ] Why is there a distinction between academic and scientific research?
+  - [ ] How can theory help to make sense of scientific issues?
+  - [ ] What are the features that make computer science research distinctive from research in other disciplines?
   - [ ] Which research question seems most viable and why?
   - [ ] What did you learn about academic writing you will apply next week?
 
